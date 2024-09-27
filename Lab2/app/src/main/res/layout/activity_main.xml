@@ -103,8 +103,6 @@
         android:text="電腦出拳"
         app:layout_constraintStart_toEndOf="@+id/tv_mmora"
         app:layout_constraintTop_toTopOf="@+id/tv_mmora" />
-
-
-</RadioGroup>
+    
 
 </androidx.constraintlayout.widget.ConstraintLayout>
