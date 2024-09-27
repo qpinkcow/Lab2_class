@@ -51,6 +51,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:checked="true"
             android:text="剪刀" />
 
         <RadioButton
@@ -103,6 +104,6 @@
         android:text="電腦出拳"
         app:layout_constraintStart_toEndOf="@+id/tv_mmora"
         app:layout_constraintTop_toTopOf="@+id/tv_mmora" />
-    
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
